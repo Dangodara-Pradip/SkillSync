@@ -3,7 +3,7 @@
 SkillSync is a modern frontend web application where learners and experts connect, collaborate, and grow together.  
 Users can explore skills, share knowledge, and hire talented individuals through a clean and responsive interface.
 
----
+----
 
 ## ✨ Features
 
